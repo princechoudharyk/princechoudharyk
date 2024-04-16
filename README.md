@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @princechoudharyk
+- 👋 Hi, I’m @princechoudhary
 - 👀 I’m interested in learn something new
 - 🌱 I’m currently learning Data analytics
 - 💞️ I’m looking to collaborate on ...
